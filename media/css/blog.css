@@ -1,0 +1,16 @@
+h1 a {
+color: orange;
+font-family: 'Lobster';
+}
+p {
+color: orange;
+font-family: 'Lobster';
+}
+body {
+background-color:black;
+padding-left: 15px;
+}
+
+.content {
+margin-left: 40px;
+}
